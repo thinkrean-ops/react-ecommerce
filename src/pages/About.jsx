@@ -11,7 +11,7 @@ function About() {
           />
         </div>
         <div className=" line-clamp-5">
-          <h1 className="text-3xl text-center font-bold mb-2">
+          <h1 className="text-4xl text-center font-bold mb-2">
             {" "}
             Our Story's customer
           </h1>
