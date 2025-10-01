@@ -27,7 +27,7 @@ useEffect (()  => {
 
   return (
     <div className="font-jost">
-      <div  style = {{backgroundImage: "url('./Slide_02.jpg')"}}className=" bg-white bg-pink-100 bg-center bg-contain bg-no-repeat    flex items-center h-screen  px-4 lg:px-40">
+      <div  style ={{ background: "url('./Slide-02.jpg')"}}className="bg-white bg-pink-100 bg-center bg-contain bg-no-repeat   flex items-center h-screen  px-4 lg:px-40">
 
         <div>
           <h2 className="text-xl font-bold">New Collection</h2>
